@@ -20,4 +20,4 @@ public class bj2588 {
 
         sc.close();
 	}
-}
+} 

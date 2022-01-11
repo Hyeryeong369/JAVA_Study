@@ -10,4 +10,4 @@ public class bj1008 {
 
         sc.close();
 	}
-}
+} 

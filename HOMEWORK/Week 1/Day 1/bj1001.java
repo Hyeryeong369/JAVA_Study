@@ -11,3 +11,4 @@ public class bj1001 {
         sc.close();
     }
 }
+ 

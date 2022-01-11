@@ -14,4 +14,4 @@ public class bj10869 {
 
         sc.close();
 	}
-}
+} 

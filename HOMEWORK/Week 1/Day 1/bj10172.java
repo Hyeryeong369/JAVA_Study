@@ -7,3 +7,4 @@ public class bj10172 {
         System.out.println("||_/=\\\\__|");
     }
 }
+ 

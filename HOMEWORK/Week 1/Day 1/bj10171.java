@@ -6,3 +6,4 @@ public class bj10171 {
         System.out.println(" \\(__)|");
     }
 }
+ 
