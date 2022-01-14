@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class bj10869 {
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
-		double a, b;
+		int a, b;
 		a = sc.nextInt();
 		b = sc.nextInt();
 		System.out.println(a + b);
@@ -15,3 +15,4 @@ public class bj10869 {
         sc.close();
 	}
 } 
+
